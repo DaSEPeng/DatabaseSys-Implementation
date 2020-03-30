@@ -9,4 +9,4 @@
 
 
 ## References
-- [CMU Advanced DBMS](https://15721.courses.cs.cmu.edu/spring2020/projects.html)
+- [CMU15-721 Advanced DBMS](https://15721.courses.cs.cmu.edu/spring2020/projects.html)
