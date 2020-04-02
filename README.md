@@ -8,6 +8,7 @@
   - [Option操作](https://blog.csdn.net/H514434485/article/details/103652067)
 - 实验2：LevelDB中的跳表
   - TBC
+  - [BTree和B+Tree详解](https://www.cnblogs.com/vianzhang/p/7922426.html)
 
 
 ## References
