@@ -13,4 +13,5 @@
 
 
 ## References
+- [CMU15-445 DATABASE SYSTEMS](https://15445.courses.cs.cmu.edu/fall2019/)
 - [CMU15-721 Advanced DBMS](https://15721.courses.cs.cmu.edu/spring2020/projects.html)
