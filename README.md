@@ -9,7 +9,7 @@
 |:--:|:--:|:--:|
 |Lecture 1 |课程介绍、数据库系统介绍、数据库系统发展、数据库系统评价 | |
 |Lecture 2 |KV存储的三种模型：bitcast、LMDB、LSM-Tree | |
-
+|Lecture 3 | Memtable & SkipList | |
 
 
 ## Projects
