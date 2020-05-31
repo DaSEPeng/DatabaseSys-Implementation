@@ -1,3 +1,8 @@
+## Introduction
+- TextBook: [Database System Implementation, 2nd](http://infolab.stanford.edu/~ullman/dbsi.html)
+- PaperReading: [Zhihu Link](https://zhuanlan.zhihu.com/p/91434149)
+
+
 ## Projects
 - 实验0：实验环境部署
   - [跟我一起写 Makefile](https://blog.csdn.net/haoel/article/details/2886)
