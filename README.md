@@ -8,7 +8,7 @@
 |Event Type | Description |Course Materials|
 |:--:|:--:|:--:|
 |Lecture 1 |课程介绍、数据库系统介绍、数据库系统发展、数据库系统评价 | |
-|Lecture 2 |LSM-tree model for KVS | |
+|Lecture 2 |KV存储的三种模型：bitcast、LMDB、LSM-Tree | |
 
 
 
