@@ -1,5 +1,6 @@
 ## Introduction
-- TextBook: [Database System Implementation, 2nd](http://infolab.stanford.edu/~ullman/dbsi.html)
+- Instructor: [Huiqi Hu](https://dase314ecnu.github.io/huiqihu.github.io/)
+- TextBook: [Database System Implementation(2nd)](http://infolab.stanford.edu/~ullman/dbsi.html)
 - PaperReading: [Zhihu Link](https://zhuanlan.zhihu.com/p/91434149)
 
 
