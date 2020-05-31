@@ -3,6 +3,13 @@
 - TextBook: [Database System Implementation(2nd)](http://infolab.stanford.edu/~ullman/dbsi.html)
 - PaperReading: [Zhihu Link](https://zhuanlan.zhihu.com/p/91434149)
 
+## Syllabus
+
+|Event Type | Description |Course Materials|
+|:--:|:--:|:--:|
+|Lecture 1 |课程介绍、数据库系统介绍、数据库系统发展、数据库系统评价 | |
+
+
 
 ## Projects
 - 实验0：实验环境部署
