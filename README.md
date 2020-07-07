@@ -25,6 +25,8 @@
 - 实验3：LevelDB中的log实现
 - 实验4：LevelDB中的log实现进阶
 
+## Survey Paper
+- [Learned Index Structures: Model, Benchmark, and System](learned_index_pli.pdf)
 
 ## References
 - [CMU15-445 DATABASE SYSTEMS](https://15445.courses.cs.cmu.edu/fall2019/)
