@@ -16,6 +16,7 @@
 - 实验0：实验环境部署
   - [跟我一起写 Makefile](https://blog.csdn.net/haoel/article/details/2886)
   - [在 linux 下使用 CMake 构建应用程序](https://www.ibm.com/developerworks/cn/linux/l-cn-cmake/)
+  - [LevelDB实现解析](https://yuerblog.cc/wp-content/uploads/leveldb%E5%AE%9E%E7%8E%B0%E8%A7%A3%E6%9E%90.pdf)
 - 实验1：LevelDB初步使用
   - [LevelDB官方文档](https://github.com/google/leveldb/blob/master/doc/index.md)
   - [中文文档](https://blog.csdn.net/doc_sgl/article/details/52824426)
